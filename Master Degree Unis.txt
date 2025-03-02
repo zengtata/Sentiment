@@ -1,0 +1,12 @@
+A.I.
+1. University College London - MSc in Artificial Intelligence
+2. ETH Zurich (Switzerland) - Master of Science in Data Science and Artificial Intelligence
+3. Delft University of Technology (Netherlands) - MSc in Artificial Intelligence
+4. University of Amsterdam (Netherlands) - Master's in Artificial Intelligence
+5. University of Edinburgh (UK) - MSc Artificial Intelligence
+
+Data Science
+1. University College London - MSc Data Science
+2. University of Amsterdam - MSc Data Science
+3. ETH Zurich - Master of Science in Data Science
+4. Imperial College London - MSc Machine Learning
